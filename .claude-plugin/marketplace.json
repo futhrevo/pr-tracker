@@ -1,0 +1,5 @@
+{
+  "name": "pr-tracker",
+  "owner": { "name": "futhrevo" },
+  "plugins": [{ "name": "pr-tracker", "source": "./" }]
+}

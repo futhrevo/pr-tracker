@@ -1,0 +1,1 @@
+{ "name": "pr-tracker", "version": "0.1.0", "description": "Pane tracking your GitHub PRs via gh: merge status, reviews, comments, CI runs; merged list scrolls 5 at a time", "types": "./types/index.d.ts" }
